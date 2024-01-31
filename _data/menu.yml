@@ -4,7 +4,11 @@
 entries:
   - title: about me
     entries:
-      - title: i am a software engineer at amazon web services (aws), working on problems in the distributed systems and serverless space at <a href='https://aws.amazon.com/lambda/'>aws lambda</a>.
+      - title: i am a software engineer at amazon web services (aws), working on problems in the distributed systems and serverless space at <a href='https://aws.amazon.com/lambda/'>aws lambda</a>.  
+
+  - title: email
+    entries:
+      - title: rthotakura97 (at) gmail (dot) com
 
   - title: links
     entries:
