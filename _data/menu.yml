@@ -10,5 +10,12 @@ entries:
     entries:
       - title: "<a href='https://www.linkedin.com/in/rohitthotakura/'>linkedin</a>, <a href='https://github.com/rthotakura97'>github</a>, <a href='https://letterboxd.com/rthotakura97/'>letterboxd</a>"
 
+  - title: most recent posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See older posts...
+      show_more_url: archive.html
+
   - title: rss
     url: feed.xml
