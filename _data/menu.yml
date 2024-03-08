@@ -16,9 +16,6 @@ entries:
       show_more: true
       show_more_text: older posts...
       show_more_url: archive.html
-    
-  - title: reading list
-    url: reading-list.html
 
   - title: email
     entries:
